@@ -2,11 +2,11 @@
 
 In the first stage we are gonna build an online shop, It means there's only one market that have maney products. at this stage the product will bring these features (these are just the core features):
 
-- authentication and authorization
+- [authentication and authorization](/auth.md#authentication-and-authorization)
   - Register
   - Login
   - Create and edit profile
-- Search products
+- [Search products](/search.md)
   - Search products by their name
   - Search product in a root category
   - Search product in subcategories 
